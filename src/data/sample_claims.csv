@@ -1,0 +1,31 @@
+ClaimID,Provider,Amount,Status,DenialReason
+C001,Provider C,2882.11,Approved,
+C002,Provider C,2252.4,Approved,
+C003,Provider C,1382.66,Denied,Policy Expired
+C004,Provider C,4616.12,Pending,
+C005,Provider A,2894.3,Approved,
+C006,Provider B,4451.64,Pending,
+C007,Provider C,3218.85,Denied,Not Covered
+C008,Provider A,1576.26,Denied,Not Covered
+C009,Provider A,1633.52,Denied,Incomplete Docs
+C010,Provider C,1753.59,Approved,
+C011,Provider A,1673.26,Approved,
+C012,Provider C,2223.29,Approved,
+C013,Provider C,2158.87,Denied,Policy Expired
+C014,Provider B,3273.61,Denied,Not Covered
+C015,Provider A,609.94,Approved,
+C016,Provider C,1009.13,Denied,Incomplete Docs
+C017,Provider C,1657.38,Denied,Policy Expired
+C018,Provider B,2529.21,Denied,Incomplete Docs
+C019,Provider A,660.76,Denied,Incomplete Docs
+C020,Provider C,2655.0,Pending,
+C021,Provider B,2843.33,Approved,
+C022,Provider C,3133.97,Approved,
+C023,Provider A,2926.35,Pending,
+C024,Provider A,3959.81,Denied,Policy Expired
+C025,Provider A,266.02,Approved,
+C026,Provider A,2055.33,Denied,Not Covered
+C027,Provider B,4840.77,Approved,
+C028,Provider B,1352.19,Pending,
+C029,Provider C,4968.09,Pending,
+C030,Provider B,680.68,Pending,
